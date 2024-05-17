@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 * Programming Languages
     * Python (EF SET Certificate English Level C2)
-    * C (Experience en C)
+    * C (Experience in C)
     * Notions in HTML, CSS, and JavaScript
 * Databases
     * Experience in SQL Engines: Oracle, MySQL, and SQL Server
