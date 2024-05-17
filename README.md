@@ -25,13 +25,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Django, Python, Js, Ts, React, Vite**
 
-- 🤝 I’m looking for help with **My First IT Job**
+- 🤝 I’m looking for help with **Getting a Job in IT**
 
 - 💬 Ask me about **System Analysis, Backend Development**
 
 - 📫 How to reach me **eduferreyraok@gmail.com**
-
-- ⚡ Fun fact **I make math jokes but no one gets it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
