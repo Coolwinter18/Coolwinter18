@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carlos Eduardo FERREYRA</h1>
 <h3 align="center">University Student and Backend developer from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coolwinter18&label=Profile%20views&color=0e75b6&style=flat" alt="coolwinter18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosferreyra&label=Profile%20views&color=0e75b6&style=flat" alt="carlosferreyra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coolwinter18" alt="coolwinter18" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosferreyra" alt="carlosferreyra" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/eduferreyraok" target="blank"><img src="https://img.shields.io/twitter/follow/eduferreyraok?logo=twitter&style=for-the-badge" alt="eduferreyraok" /></a> </p>
 
