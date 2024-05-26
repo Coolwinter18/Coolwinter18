@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosferreyra&label=Profile%20views&color=0e75b6&style=flat" alt="carlosferreyra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosferreyra" alt="carlosferreyra" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosferreyra&column=-1" alt="carlosferreyra" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/eduferreyraok" target="blank"><img src="https://img.shields.io/twitter/follow/eduferreyraok?logo=twitter&style=for-the-badge" alt="eduferreyraok" /></a> </p>
 
