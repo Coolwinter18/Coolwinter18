@@ -35,6 +35,7 @@
 <a href="https://instagram.com/eduferreyraok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eduferreyraok" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@eduferreyraok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@eduferreyraok" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/coolwinter18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coolwinter18" height="30" width="40" /></a>
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
